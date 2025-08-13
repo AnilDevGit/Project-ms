@@ -11,6 +11,8 @@ public with sharing class Acccretion {
 }
     public sttic sl(){
         return 'hello';}
-
+public private static void name() {
+    
+}
 
 }

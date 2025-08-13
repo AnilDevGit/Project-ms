@@ -12,11 +12,5 @@ public with sharing class Acccretion {
     public sttic sl(){
         return 'hello';}
 
- public sttic sl(){
-        return 'hi';}
-
-         public sttic sl(){
-        return 'hi';}
-
 
 }
